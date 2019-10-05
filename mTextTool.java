@@ -2,8 +2,6 @@
 * Marcus's Text Tool
 * 
 * @author  Marcus Wynwood
-*
-* www.mwynwood.com
 * 
 * Started on:  5th July 2003
 * Modified: 5th July 2003
